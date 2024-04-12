@@ -28,7 +28,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ...
 
 ## Mock Up
-[Portfolio application of the projects I have accomplished  with the links to each of them for further examination](path to website screenshot)
+[This is my Portfolio page using HTML and CSS](/assets/images/Screenshot_11-4-2024_20358_127.0.0.1.jpeg) ![image of portfolio](/assets/images/Screenshot_11-4-2024_20358_127.0.0.1.jpeg)
 
 ## Usage
 Go to my porfolio @[porfolio demo](path to website) and click around to any project link that catches your eye. Click on the project and have it redirect you. Enjoy and please tell employers about my portfolio so they can reach out to me for a job offer. 
